@@ -1,2 +1,2 @@
-# mycusini-firmware
+# miniprinter-firmware
 
